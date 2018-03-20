@@ -1,3 +1,10 @@
-a=(100+1.0/3)-100;
-b=1.0/3;
-console.log(a==b);
+const opt={
+    name: 'Van',
+    age:22,
+    width:182
+}
+
+function rend({name,age,width}) {
+    console.log(name,age,width);
+}
+rend(opt);
