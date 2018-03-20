@@ -5,3 +5,4 @@ var b=10;
 
 var sum=calculator.sum(a,b);
 document.write(sum);
+

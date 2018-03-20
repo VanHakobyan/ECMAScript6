@@ -1,13 +1,21 @@
 const path = require('path');
 module.exports = {
-    entry: './es6start/src/js/index.js',
-    output: {
+    entry : './Operators/Spread.js',
+    output : {
         filename: 'bundle.js',
-        path: path.resolve(__dirname, 'dist')
-    }
+        path: path.resolve(__dirname,'dist')
+    },
     module: {
-        rules :[
-            { test: /\.js$/, exclude: /node_modules/, loader: "babel-loader" }
+        rules: [
+            { test: /\.js$/,
+                exclude: /(node_modules|bower_components)/,
+                use: {
+                    loader: 'babel-loader',
+                    options: {
+                        presets:['env','stage-0'],
+                    },
+                },
+            },
         ]
     }
 };
