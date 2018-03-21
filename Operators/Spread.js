@@ -16,6 +16,11 @@ const result={
     goal:[],
     width:182
 }
-const resultObj=Object.assign({},data,result,{newValue:'value'});
-console.log(data);
+// const resultObj=Object.assign({},data,result,{newValue:'value'});
+const res={
+    ...first,
+    ...data,
+    newVal:"New"
+}
+console.log(res);
 
