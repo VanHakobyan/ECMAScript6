@@ -1,2 +1,3 @@
-# ECMAScript6
-ECMAScript6 ideologies
+<p align="center"><img src="https://cdn-images-1.medium.com/max/1600/1*6-bW-_sbW9nhe7Wa8uFPKQ.png"></p>
+
+Current browsers don’t support all the new ECMAScript 6 (aka ECMAScript 2015) features yet (see comptability table). You need to use a compiler (transpiler) to transform your ECMAScript 6 code to ECMAScript 5 compatible code. Although there are other options, Babel has become the de-facto standard to compile ECMAScript 6 applications to a version of ECMAScript that can run in current browsers. Babel can also compile other versions of ECMAScript as well as React’s JSX, but that is beyond the scope of this tutorial.
