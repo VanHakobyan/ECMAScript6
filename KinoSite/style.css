@@ -1,3 +1,10 @@
-.container {
-    height: 100px
+#table {
+    text-align: center
+}
+.title {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size:medium
+}
+.th {
+    text-align: center
 }
