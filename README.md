@@ -17,4 +17,10 @@ Current browsers don’t support all the new ECMAScript 6 (aka ECMAScript 2015) 
 11. [KinoSite](https://github.com/VanHakobyan/ECMAScript6/tree/master/KinoSite)
 
 
+### About :pencil2:
+
+* Web Storm 2017 :closed_book:
+* ECMAscript 6   :notebook_with_decorative_cover:
+
+
 
