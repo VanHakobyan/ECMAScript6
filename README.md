@@ -16,6 +16,9 @@ Current browsers don’t support all the new ECMAScript 6 (aka ECMAScript 2015) 
 10. [Promice](https://github.com/VanHakobyan/ECMAScript6/tree/master/Promice)
 11. [KinoSite](https://github.com/VanHakobyan/ECMAScript6/tree/master/KinoSite)
 
+<br>
+<p align="center"><img src="https://github.com/VanHakobyan/ECMAScript6/blob/master/KinoSite/kino.gif"></p>
+<br>
 
 ### About :pencil2:
 
